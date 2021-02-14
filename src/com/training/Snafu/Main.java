@@ -13,5 +13,6 @@ public class Main {
         System.out.println("HelloWorld5");
         System.out.println("HelloWorld6");
         System.out.println("HelloWorld7"); //added
+        System.out.println("Test from another pc"); //pc 2
     }
 }
